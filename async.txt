@@ -1,0 +1,7 @@
+including async function that waits for an operation to be done before moving on
+
+including await tells async method will wait until the asynchronous process is complete.
+
+javaScript powers up the draw and blocks programming in the sphero Edu app, It is also possible to view javascript code behind these progras 
+
+Programming in sphero edu app is done by drawing lines and dagging blocks and writting the text code.
